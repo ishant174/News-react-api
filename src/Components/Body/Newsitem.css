@@ -1,0 +1,5 @@
+.newsitem{
+    max-height: 170px;
+    object-fit: cover;
+    min-height: 170px;
+}
